@@ -1,0 +1,40 @@
+body {
+  background: #FFF;
+  font-family: Helvetica, Arial, san-serif;
+  color: #333;
+  font-size: 14px;
+  margin: 0px;
+  padding: 0px;
+  text-align:center;
+}
+#container {
+  width: 600px;
+  margin: 0px auto;
+}
+h1 {
+  font-size: 12px;
+  font-weight:bold;
+  font-family: Inconsolata, Monaco, Courier, monospace;
+  color:#2D4B71;
+}
+p {
+  line-height: 140%;
+}
+a:link, a:visited {
+  color:#CB503C;
+}
+a:hover {
+  text-decoration:none;
+}
+strong {
+  color: #2D4B71;
+}
+.description {
+  font-size: 16px;
+  width: 400px;
+  margin: 0 auto;
+}
+#copy {
+  padding: 20px 0px;
+  font-size: 10px;
+}
