@@ -13,7 +13,7 @@
 <body class="blog">
   <div id="container">
     <div id="header">
-      <div id="logo"><img src="/images/codefoodbar.gif" alt="code(food,bar)" /></div>
+      <div id="logo"><a href="/"><img src="/images/codefoodbar.gif" alt="code(food,bar)" /></a></div>
       <h1><pre>
                _         __   __                 _       _                 __  
   ___ ___   __| | ___   / /  / _| ___   ___   __| |     | |__   __ _ _ __  \ \ 
@@ -25,25 +25,28 @@
     </div>
     <div id="main">
       <div id="nav">
-        <ol>
+        <!-- <ol>
           <li><a href="/index.html">home</a></li>
-        </ol>
+        </ol> -->
         <h3>latest</h3>
         <ol>
-          {{% for post in site.posts limit:5 %}}
+          {% for post in site.posts limit:5 %}
           <li><a href="{{post.url}}">{{post.title}}</a><span>{{post.date | date: "%b %d, %Y"}}</span></li>
-          {{% endfor %}}
+          {% endfor %}
         </ol>
       </div>
-      <div class="post">
-        <h2>{{ page.title }}</h2>
-        {{content}}
+      <div id="content">
+        <div class="post">
+          <h2>{{ page.title }}</h2>
+          {{content}}
+        </div>
+        <div class="post-meta">
+          <p>Posted {{page.date | date: "%b %d, %Y"}} by <a href="http://twitter.com/{post.author}">@{{page.author}}</a></p>
+        </div>
+        <!-- disqus -->
+        <div id="disqus_thread"></div><script type="text/javascript" src="http://disqus.com/forums/codefoodbar/embed.js"></script><noscript><a href="http://disqus.com/forums/codefoodbar/?url=ref">View the discussion thread.</a></noscript><a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
       </div>
-      <div class="post-meta">
-        <p>Posted {{page.date | date: "%b %d, %Y"}} by <a href="http://twitter.com/{post.author}">@{{page.author}}</a></p>
-      </div>
-      <!-- disqus -->
-      <div id="disqus_thread"></div><script type="text/javascript" src="http://disqus.com/forums/codefoodbar/embed.js"></script><noscript><a href="http://disqus.com/forums/codefoodbar/?url=ref">View the discussion thread.</a></noscript><a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+      <div class="clear"></div>
     </div>
     <div class="description">
       <p><strong>code(food,bar)</strong> is a collection of <strong>foodies</strong> who happen to be <strong>coders</strong> and <strong>coders</strong> who happen to be <strong>foodies</strong>.</p>

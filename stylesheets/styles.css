@@ -7,6 +7,9 @@ body {
   padding: 0px;
   text-align:center;
 }
+a img {
+  border: none;
+}
 #container {
   width: 800px;
   margin: 0px auto;
@@ -16,6 +19,21 @@ h1 {
   font-weight:bold;
   font-family: Inconsolata, Monaco, Courier, monospace;
   color:#2D4B71;
+}
+.blog #logo {
+  float:left;
+}
+#main {
+  clear:both;
+}
+.blog #main {
+  padding: 0px 0px 20px;
+  margin: 0px 0px 20px 20px;
+  border-bottom: 1px solid #CCC;
+  text-align: left;
+}
+.blog h1 {
+  padding: 60px 20px;
 }
 p {
   line-height: 140%;
@@ -30,6 +48,7 @@ strong {
   color: #2D4B71;
 }
 .description {
+  clear: both;
   font-size: 16px;
   width: 400px;
   margin: 0 auto;
@@ -45,8 +64,10 @@ h3.latest {
   border-bottom: 1px solid #CCC;
   padding: 0px 0px 10px 0px;
 }
-.latest-posts ol {
+.latest-posts ol, #nav ol {
   list-style-type: none;
+  padding: 0px;
+  margin: 0px;
 }
 .latest-posts ol li {
   font-size: 18px;
@@ -62,4 +83,44 @@ ol li span {
 #copy {
   padding: 20px 0px;
   font-size: 10px;
+}
+#nav {
+  width: 200px;
+  margin-right: 20px;
+  float:left;
+}
+#nav h3 {
+  color: #666;
+  border-bottom: 1px solid #CCC;
+  width: auto;
+}
+#nav li a {
+  display:block;
+  color:#991318;
+}
+#content {
+  width: 560px;
+  float:left;
+}
+#content h2 {
+  font-size: 24px;
+  color: #2D4B71;
+}
+.post {
+  line-height: 160%;
+}
+.post-meta {
+  color:#666;
+  border-top: 1px solid #CCC;
+  border-bottom: 1px solid #CCC;
+  padding: 5px 0px;
+  margin: 5px 0px;
+}
+#content li {
+  padding: 5px 0px;
+}
+.clear {
+  clear:both;
+  width: auto;
+  line-height: 0px;
 }

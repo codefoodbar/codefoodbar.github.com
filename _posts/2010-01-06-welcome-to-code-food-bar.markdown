@@ -21,29 +21,32 @@ food.
 
 Some things to consider:
 
-* For restaurants:
- * the regular get togethers should accommodate a decent amount of
+#### For restaurants:
+
+* the regular get togethers should accommodate a decent amount of
 people. As much as I love the tiny wholes in the walls, we probably
 cant cram a bunch of people in them at once.
- * They probably have to be reasonably priced. I'd say once in a
+* They probably have to be reasonably priced. I'd say once in a
 while I'd love to go to a place with you folks and ball out on a
 tasting menu, but that probably cant be a regular thing.
- * They have to accommodate vegetarians. The place doesn't have to be
+* They have to accommodate vegetarians. The place doesn't have to be
 vegan, but it should have some veggie options (looking out for my man,
 @atduskgreg)
- * Also, we probably have to put into place some sort of simple RSVP
+* Also, we probably have to put into place some sort of simple RSVP
 system since we'll need to call places in advance if its going to be >
 6 people.
 
-* For cook/hack fests:
- * I would love for people to volunteer for opening up your apt. You
+#### For cook/hack fests:
+
+* I would love for people to volunteer for opening up your apt. You
 can say how many people you want and we can limit it to that. Also you
 can charge at the door or request ingredients if you're
 cooking/supplying food stuffs.
- * I think I'll open up my doors for the first one and see how it goes.
+* I think I'll open up my doors for the first one and see how it goes.
 
-* In terms of tech:
- * I don't think you should have to be a programmer to come to an
+#### In terms of tech:
+
+* I don't think you should have to be a programmer to come to an
 event. Spouses/Partners/Friends should be welcome as long as they don't
 roll their eyes when we start diving into arguments about unit testing
 frameworks. Language preference/experience in cooking or coding should
