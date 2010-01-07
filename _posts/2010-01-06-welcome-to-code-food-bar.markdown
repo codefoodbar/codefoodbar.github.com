@@ -8,7 +8,7 @@ Let's just say I'm really excited about this group and the potential
 to hang out, eat good food, and hack with some brilliant gourmands.
 
 I have some cool ideas for the near and distant future, but I'd love
-to hear you're guys thoughts and ideas, too.
+to hear your thoughts and ideas, too.
 
 Heres the general gist of what I'd like to see us _achieve_:
 
@@ -23,9 +23,9 @@ Some things to consider:
 
 #### For restaurants:
 
-* the regular get togethers should accommodate a decent amount of
-people. As much as I love the tiny wholes in the walls, we probably
-cant cram a bunch of people in them at once.
+* the regular get-togethers should accommodate a decent amount of
+people. As much as I love the tiny holes-in-the-walls, we probably
+can't cram a bunch of people in them at once.
 * They probably have to be reasonably priced. I'd say once in a
 while I'd love to go to a place with you folks and ball out on a
 tasting menu, but that probably cant be a regular thing.
