@@ -2,10 +2,11 @@
 title: home
 layout: main
 ---
-<div class="description">
-  <p><strong>code(food,bar)</strong> is a collection of <strong>foodies</strong> who happen to be <strong>coders</strong> and <strong>coders</strong> who happen to be <strong>foodies</strong>.</p>
-  <p>We're working out a schedule of events and meetups, and will post more info soon.</p>
-  <p>In the meantime, please sign up for the mailing list by sending an email 
-    to <a href="mailto:codefoodbar@librelist.com">codefoodbar@librelist.com</a><br />
-    or <a href="http://twitter.com/codefoodbar">follow us on twitter @codefoodbar</a>.</p>
+<h3 class="latest">latest</h3>
+<div class="latest-posts">
+  <ol>
+{% for post in site.posts limit: 3 %}
+  <li><a href="{{post.url}}">{{post.title}}</a> <span>{{post.date | date: "%b %d, %Y"}}</span></li>
+{% endfor %}
+  </ol>
 </div>
