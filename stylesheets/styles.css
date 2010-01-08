@@ -72,6 +72,9 @@ h3.latest {
 .latest-posts ol li {
   font-size: 18px;
 }
+ol li {
+  padding: 5px 0px;
+}
 li a:link, ol li a:visited {
   font-weight: bold;
   color:#350D1D;
