@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: First Meetup - Tues, Jan 19th @ Congee Village
+author: aq
 ---
 I'm pleased to announce the first meetup of code(food,bar) at the excellent and endlessy fun Cantonese establishment [Congee Village](http://www.congeevillagerestaurants.com/). I think its an ideal first location because of its size, its huge menu, and its relatively easy to access location. There are actually two Congee Villages within walking distance to each other, but I'm referring to the grander and newer Congee Village on the Bowery.
 
