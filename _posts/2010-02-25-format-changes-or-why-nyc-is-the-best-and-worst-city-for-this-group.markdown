@@ -3,7 +3,7 @@ layout: blog
 title: Format changes or Why NYC is the best and worst city for this group
 ---
 
-So while this blog and actual meetups have gone idle, it hasnt been without a reason. Besides the usual excuse of being busy, I've been hard at work trying to figure out how to make this group work with the somewhat crazy contraints imposed by this city. The main problem is as follows:
+So while this blog and actual meetups have gone idle, it hasn't been without a reason. Besides the usual excuse of being busy, I've been hard at work trying to figure out how to make this group work with the somewhat crazy constraints imposed by this city. The main problem is as follows:
 
   Despite being an enormous city with thousands of restaurants most restaurants, especially the good ones are very very small and also very hard to book for large groups (if book at all).
   
