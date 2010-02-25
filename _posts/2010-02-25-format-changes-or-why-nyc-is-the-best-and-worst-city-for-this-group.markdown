@@ -8,7 +8,7 @@ So while this blog and actual meetups have gone idle, it hasn't been without a r
 
 **Despite being an enormous city with thousands of restaurants most restaurants, especially the good ones are very very small and also very hard to book for large groups (if book at all).**
   
-So heres the deal as I see it. Have more frequent, smaller meetups at restaurants, and larger less frequent meetups at host houses. Whenever a restaurant requires a reservation, I'm going to limit the number ahead of time (lets say 10-12). In those cases I'm also going to ask for a small payment (though [venmo](http://venmo.com) [thanks for the tip [@binary42](http://twitter.com/binary42)]) to reserve your spot (probably ~10$). This is just a little insurance that people wont bail and take up other potential attendees spots. I wont pocket any of the money - it will all just go to the final bill.
+So heres the deal as I see it. Have more frequent, smaller meetups at restaurants, and larger less frequent meetups at host houses. Whenever a restaurant requires a reservation, I'm going to limit the number ahead of time (lets say 10-12). In those cases I'm also going to ask for a small payment (though [venmo](http://venmo.com) - thanks to the tip from [@binary42](http://twitter.com/binary42)) to reserve your spot (probably ~10$). This is just a little insurance that people wont bail and take up other potential attendees spots. I wont pocket any of the money - it will all just go to the final bill.
 
 Does this work for people? Make sense? I would love feedback/suggestions. 
 
