@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Meetup #2: Mon, March 8th @ Frankies 457
+title: "Meetup #2 Mon, March 8th @ Frankies 457"
 author: aq
 ---
 I've been trying to figure out how to get everyone to my 'hood in Brooklyn for a while. What better way then unbelievable good italian food in a warm but hip atmosphere! Its snowing as I write this, and the thought of Frankies 457's world famous (or at least Brooklyn Famous) meatballs is making me drool all over my keyboard. Frankies has been a neighborhood staple for quite some time. [Heres a rave review from the Times from 2004.](http://www.nytimes.com/2004/11/24/dining/24UNDE.html)
