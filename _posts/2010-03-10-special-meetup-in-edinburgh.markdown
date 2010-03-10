@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Special Meetup: Thurs, March 25 @ Hawke &amp; Hunter in Edinburgh, Scotland
+author: aq
 ---
 
 I'm very excited to announce the first International gathering of code(food,bar)! I'll be speaking at and attending the [Scottish Ruby Conference](http://scottishrubyconference.com) at the end of March and I figured it would be a great to get people from the conference together for an awesome night of food and drink. 
