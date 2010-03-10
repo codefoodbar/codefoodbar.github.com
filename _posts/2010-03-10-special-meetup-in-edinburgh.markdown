@@ -13,9 +13,9 @@ Thanks to the generous help of Alan Gardner ([@mr_urf](http://twitter.com/mr_urf
 
 Drool-worthy.
 
-We've booked a private room that can seat 20 people for dinner. We'll be doing a pre-fixe dinner (note the cost does not include drinks or gratuity) that normally costs 25&pound; but thanks to the magnanimous [Rubaidh](http://rubaidh.com/) and Graeme who's covering the deposit the cost for dinner will be 20&pound;. Dinner will be _very_ intimate and hopefully everyone will get to share some interesting stories and meet some new people. If you can't make it to the dinner itself, or it fills up before you get a chance to register, note that we will definitely be continuing the event at a yet undecided pub or whiskey house where everyone and anyone is welcome.
+We've booked a private room that can seat 20 people for dinner. We'll be doing a pre-fixe dinner (note the cost does not include drinks or gratuity) that normally costs &pound;25 but thanks to the magnanimous [Rubaidh](http://rubaidh.com/) and Graeme who's covering the deposit the cost for dinner will be &pound;20. Dinner will be _very_ intimate and hopefully everyone will get to share some interesting stories and meet some new people. If you can't make it to the dinner itself, or it fills up before you get a chance to register, note that we will definitely be continuing the event at a yet undecided pub or whiskey house where everyone and anyone is welcome.
 
-Some logistics: We're using Eventwax to manage registration and we're asking for a 5&pound; deposit as a 'ticket' to ensure that you'll actually show up.
+Some logistics: We're using Eventwax to manage registration and we're asking for a &pound;5 deposit as a 'ticket' to ensure that you'll actually show up.
 
 The space is going to be private, but the Restaurant is pretty swanky, so we suggest to wear some nice clothes or as Alan put it 'no comedy headwear!' I would also probably add no conference t-shirts ;)
 
