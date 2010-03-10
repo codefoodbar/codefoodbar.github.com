@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Special Meetup: Thurs, March 25 @ Hawke &amp; Hunter in Edinburgh, Scotland
+title: "Special Meetup: Thurs, March 25 @ Hawke & Hunter in Edinburgh, Scotland"
 author: aq
 ---
 
