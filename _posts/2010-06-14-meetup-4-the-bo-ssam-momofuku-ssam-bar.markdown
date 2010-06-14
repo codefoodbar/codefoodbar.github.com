@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: "Meetup #4: THE BO SSAM @ Momofuku Ssam Bar"
+author: aq
 ---
 
 It's with great heartache, that [I'll be leaving New York]() for greener pastures out on the left coast. Don't fear, though, I plan on starting a codefoodbar in the Bay Area and [Matt](http://twitter.com/fotoverite) is going to be continuing the charge here in NYC.
@@ -15,9 +16,9 @@ The reservation is early - 5PM. It just means we'll have more time to celebrate.
 
 ### Details
 
-CodeFoodBar: Meetup #4: THE BO SSAM
-207 2nd ave. 
-New York, NY 10003 (corner of 13th + second)
+CodeFoodBar: Meetup #4: THE BO SSAM<br/>
+207 2nd ave. <br/>
+New York, NY 10003 (corner of 13th + second)<br/>
 
 [http://www.momofuku.com/ssam-bar/](http://www.momofuku.com/ssam-bar/)
 
