@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Meetup #4: THE BO SSAM @ Momofuku Ssam Bar"
+title: "Meetup #4: THE BO SSAM, Monday, June 28th @ Momofuku Ssam Bar"
 author: aq
 ---
 
@@ -17,6 +17,8 @@ The reservation is early - 5PM. It just means we'll have more time to celebrate.
 ### Details
 
 CodeFoodBar: Meetup #4: THE BO SSAM<br/>
+Monday, June 28th, 5PM<br/>
+Momofuku Ssam Bar<br/>
 207 2nd ave. <br/>
 New York, NY 10003 (corner of 13th + second)<br/>
 
