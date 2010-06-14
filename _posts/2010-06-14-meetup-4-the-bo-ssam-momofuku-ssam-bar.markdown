@@ -15,7 +15,7 @@ The reservation is early - 5PM. It just means we'll have more time to celebrate.
 
 ### Details
 
-CodeFoodBar: Meetup #5: THE BO SSAM
+CodeFoodBar: Meetup #4: THE BO SSAM
 207 2nd ave. 
 New York, NY 10003 (corner of 13th + second)
 
