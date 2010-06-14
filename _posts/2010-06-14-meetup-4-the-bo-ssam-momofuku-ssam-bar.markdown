@@ -4,7 +4,7 @@ title: "Meetup #4: THE BO SSAM @ Momofuku Ssam Bar"
 author: aq
 ---
 
-It's with great heartache, that [I'll be leaving New York]() for greener pastures out on the left coast. Don't fear, though, I plan on starting a codefoodbar in the Bay Area and [Matt](http://twitter.com/fotoverite) is going to be continuing the charge here in NYC.
+It's with great heartache, that [I'll be leaving New York](http://www.quirkey.com/blog/2010/06/01/the-brooklynite-heads-west/) for greener pastures out on the left coast. Don't fear, though, I plan on starting a codefoodbar in the Bay Area and [Matt](http://twitter.com/fotoverite) is going to be continuing the charge here in NYC.
 
 What better way to say goodbye then one of the best meals NYC has to offer, the beautiful glistening glory of the [Bo Ssam](http://www.flickr.com/search/?s=int&w=all&q=momofuku+bo+ssam&m=text). You may have heard of the Bo Ssam from such places as ["No Reservations"](http://www.youtube.com/watch?v=qEiATjgNyi0) or ["Worlds Best Recipes"](http://www.youtube.com/watch?v=wvrAKzgjmzg). It would be pretty hard to be a resident of New York these days and have any interest in food and NOT have seen or heard of David Chang and his pork obsession.
 
