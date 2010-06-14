@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Meetup 4: THE BO SSAM @ Momofuku Ssam Bar
+title: "Meetup 4: THE BO SSAM @ Momofuku Ssam Bar"
 ---
 
 It's with great heartache, that [I'll be leaving New York]() for greener pastures out on the left coast. Don't fear, though, I plan on starting a codefoodbar in the Bay Area and [Matt](http://twitter.com/fotoverite) is going to be continuing the charge here in NYC.
