@@ -12,7 +12,7 @@ Lets just say, there will be a lot of food. There will be a lot of Sake, too. Fo
 
 The reservation is early - 5PM. It just means we'll have more time to celebrate. Lets toast to New York, to Pork, to SF, to the love of food!
 
-6 Spots available. RSVP in the comments or via twitter.
+5 Spots available. RSVP in the comments or via twitter.
 
 ### Details
 
