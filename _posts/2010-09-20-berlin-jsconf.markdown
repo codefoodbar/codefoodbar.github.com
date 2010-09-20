@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Eat, Drink, Be Nerdy: Code(Food,Bar) hits Berlin, Friday, September 24th @ Alpenstueck"
+title: "Eat, Drink, Be Nerdy: Berlin, Friday, September 24th @ Alpenstueck"
 author: aq
 ---
 
