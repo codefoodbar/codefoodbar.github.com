@@ -4,7 +4,7 @@ title: "Meetup #5, Cafe Steinhof, Date to be decided"
 author: fotoverite
 ---
 
-It's been more than a little while. Between [amazing conferences](http://funconf.com/), moving, and insane two weeks in europe I have been lax in getting code food bar back up and running. No longer. 
+It's been more than a little while. Between [an amazing conference](http://funconf.com/), moving, and insane two weeks in europe I have been lax in getting code food bar back up and running. No longer. 
 
 I love simple feeling meals. Exotic courses and tasting menus are great but some times I just want a plate of simple well cooked meat. And Cafe Steinhof delivers. Good beer selection, very authentic Bavarian cuisine and amazing bread dumplings if you are a vegetarian. I think an awesome place to bring `CodeFoodBar` back to life. 
 
