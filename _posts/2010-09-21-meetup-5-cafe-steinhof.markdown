@@ -6,14 +6,14 @@ author: fotoverite
 
 It's been more than a little while. Between [an amazing conference](http://funconf.com/), moving, and insane two weeks in europe I have been lax in getting code food bar back up and running. No longer. 
 
-I love simple feeling meals. Exotic courses and tasting menus are great but some times I just want a plate of simple well cooked meat. And Cafe Steinhof delivers. Good beer selection, very authentic Bavarian cuisine and amazing bread dumplings if you are a vegetarian. I think an awesome place to bring `CodeFoodBar` back to life. 
+I love simple, well prepared, filling meals. Exotic courses and tasting menus are great but some times I just want a plate of simple well cooked meat. And Cafe Steinhof delivers. Good beer selection, very authentic Bavarian cuisine and amazing bread dumplings if you are a vegetarian. I think an awesome place to bring `CodeFoodBar` back to life. 
 
-I'm still getting a feel for everyone's schedule for the coming month. Mondays do not work for this place. Right Now I'm thinking Thursday the 5th at around 7 but leave  a comment if you want to go and if needed days that work better for your schedule. 
+I'm still getting a feel for everyone's schedule for the coming month. Mondays do not work for this place. Right Now I'm thinking Wednesday the 4th at around 7 but leave  a comment if you want to go and if needed days that work better for your schedule. 
 
 ### Details:
 
 Code(Food, Bar) Meetup #5 at Cafe Steinhof<br />
-Monday, April 26th 7:30PM
+Wednesday, October 4th 7:00PM
 
 422 Seventh Ave., Brooklyn, NY 11215<br />
 at 14th St.<br />
