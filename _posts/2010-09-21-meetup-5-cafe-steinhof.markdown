@@ -10,10 +10,13 @@ I love simple, well prepared, filling meals. Exotic courses and tasting menus ar
 
 I'm still getting a feel for everyone's schedule for the coming month. Mondays do not work for this place. Right Now I'm thinking Wednesday the 4th at around 7 but leave  a comment if you want to go and if needed days that work better for your schedule. 
 
+<b>UPDATE</b>
+Because of events outside of our control the date has been pushed up to the 20th. Same time same place, can't wait to see you all. 
+
 ### Details:
 
 Code(Food, Bar) Meetup #5 at Cafe Steinhof<br />
-Wednesday, October 4th 7:00PM
+Wednesday, October 20th 7:00PM
 
 422 Seventh Ave., Brooklyn, NY 11215<br />
 at 14th St.<br />
