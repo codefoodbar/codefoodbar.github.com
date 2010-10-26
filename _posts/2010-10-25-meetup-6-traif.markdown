@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Meetup #6, Traif, Friday the 5th  
+title: "Meetup #6, Traif, Friday the 5th"
 author: FotoVerite
 ---
 
