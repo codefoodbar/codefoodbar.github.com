@@ -14,6 +14,8 @@ Traif is a tapas place that specializes in pork. Wonderful delicious pork done i
 
 Their menu changes weekly but there are a few options that are usually on it. One being their bacon wrapped dates which might be the closet thing to heaven a non kosher Jew can get close to. 
 
+**To reserve a spot:** I need $5 to reserve your spot. There are 5 spots available. [Please pay via venmo](https://venmo.com/fotoverite?txn=pay&amount=5&note=for+code+food+bar+at+traif) and I'll let you know you're added to the list.
+
 ### Details:
 
 Code(Food, Bar) Meetup #6 at Traif<br />
