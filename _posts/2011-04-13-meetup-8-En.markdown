@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Meetup #8, EN Japanese Brasserie, April the 21rd"
+title: "Meetup #8, EN Japanese Brasserie, April the 21st"
 author: FotoVerite
 ---
 
@@ -11,7 +11,7 @@ EN Japanese Brasserie, is an old favorite of mine. Great Shochu and traditional 
 ### Details:
 
 Code(Food, Bar) Meetup #8 at EN Japanese Brasserie<br />
-Friday, April 21rd 7:00PM
+Thursday, April 21rd 7:00PM
 
 435 Hudson Street<br />
 New York, NY 10014<br />
